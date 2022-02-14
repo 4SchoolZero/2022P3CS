@@ -3,3 +3,5 @@
 **.vs
 **packages
 **/csproj.user
+helloWorld/helloWorld.sln
+helloWorld/helloWorld/helloWorld.csproj
